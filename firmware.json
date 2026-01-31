@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.6",
   "binUrl": "https://raw.githubusercontent.com/Radi-m/CCv3Bin/main/firmware.enc",
-  "iv": "LF4LOH9l8Jpp8v5v",
-  "tag": "0t4rim4cJttlN/lTMa1+tw==",
-  "sha256": "599f6938494d7ce2e7554a72c21313a477d49bb7236c437ac686369f812b80f7"
+  "iv": "UJ9HnKPQx/OOEgJl",
+  "tag": "NynWc/4jD8q+UW3nHzrt9w==",
+  "sha256": "214a5171749d1abb91c16c1b24ac543437d72213f5c4e97f146a8ad792fad0d8"
 }
